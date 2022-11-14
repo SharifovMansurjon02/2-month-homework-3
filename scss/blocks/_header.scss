@@ -1,0 +1,22 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    .navbar-img{
+    margin-left:10% ;
+    }
+    .navbar-list{
+        margin-right: 5%;
+.lists{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+li{
+    font-family: sans-serif;
+}
+    a{text-decoration: none;color: black;font-weight: 400;font-size:18px;}
+}
+    }
+}
